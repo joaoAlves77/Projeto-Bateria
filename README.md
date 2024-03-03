@@ -1,0 +1,2 @@
+# Projeto-Bateria
+ 🥁✨ Apresentando meu projeto de bateria - uma experiência interativa para entusiastas musicais! 🎶 Toque diferentes sons de bateria com este projeto divertido que desenvolvi para aprimorar minhas habilidades em desenvolvimento web. O código está aberto para colaboração e sugestões. Sinta-se à vontade para bater um papo e contribuir! 🚀👨‍💻 #WebDevelopment #ProjetoBateria #CódigoAberto
